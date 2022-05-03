@@ -1,13 +1,13 @@
 ### Hi there 👋
-![My Discord](https://discord-readme-badge.vercel.app/api?id=725724795517403266)
+
 
 
 <!--
 **JoqniX/JoqniX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![My Discord](https://discord-readme-badge.vercel.app/api?id=725724795517403266) - onaix rpc
 Here are some ideas to get you started:
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=334343489288404993)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=334343489288404993) - joqnix rpc 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

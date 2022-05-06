@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 -->
 ![My Discord](http://discord-readme-badge-joqnix.vercel.app/api?id=334343489288404993)
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=725724795517403266) 
+![Card with Rich Presence](./src/assets/example-richpresence.png)

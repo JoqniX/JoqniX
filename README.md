@@ -4,6 +4,8 @@
 
 <!--
 **JoqniX/JoqniX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Onaix Discord](http://discord-readme-badge-joqnix.vercel.app/api?id=725724795517403266)
+
 - onaix rpc
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -16,4 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![JoqniX Discord](http://discord-readme-badge-joqnix.vercel.app/api?id=334343489288404993)
-![Onaix Discord](http://discord-readme-badge-joqnix.vercel.app/api?id=725724795517403266)
